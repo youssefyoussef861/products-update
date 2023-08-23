@@ -1,4 +1,10 @@
 {
+"basemanager": [
+   {
+     "version": "1.0.0",
+     "last_updated": "23/08/2023 às 19:00"
+   }
+ ],
  "agencia": [
     {
       "version": "1.0.0",
