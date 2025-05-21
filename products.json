@@ -1,127 +1,110 @@
 {
-"basemanager": [
-   {
-     "version": "1.0.0",
-     "last_updated": "23/08/2023 às 19:00"
-   }
- ],
-   
- "agencia": [
-    {
-      "version": "1.0.0",
-      "last_updated": "23/07/2023 às 21:54"
-    }
-  ],
-   
-  "bandoleira": [
-    {
-      "version": "1.2.0",
-      "last_updated": "13/08/2023 às 04:34"
-    }
-  ],
-   
-  "carshop": [
-    {
-      "version": "1.0.0",
-      "last_updated": "27/05/2023 às 01:11"
-    }
-  ],
-   
-  "assault-shops": [
-    {
-      "version": "1.2.0",
-      "last_updated": "16/02/2024 às 03:51"
-    }
-  ],
-   
-  "anti-cheat": [
-    {
-      "version": "2.0.0",
-      "last_updated": "14/04/2024 às 16:50"
-    }
-  ],
-   
-  "phone": [
-    {
-      "version": "1.1.0",
-      "last_updated": "19/01/2024 às 17:00"
-    }
-  ],
-   
-   "scoreboard": [
-    {
-      "version": "1.0.0",
-      "last_updated": "04/12/2023 às 04:00"
-    }
-  ],
-   
-   "rewards": [
-      {
-         "version": "1.0.0",
-         "last_updated": "08/12/2023 às 10:20"
-      }
-   ],
-   
+    "basemanager": [
+        {
+            "version": "1.0.0",
+            "last_updated": "23/08/2023 às 19:00"
+        }
+    ],
+    "agencia": [
+        {
+            "version": "1.0.0",
+            "last_updated": "23/07/2023 às 21:54"
+        }
+    ],
+    "bandoleira": [
+        {
+            "version": "1.2.0",
+            "last_updated": "13/08/2023 às 04:34"
+        }
+    ],
+    "carshop": [
+        {
+            "version": "1.0.0",
+            "last_updated": "27/05/2023 às 01:11"
+        }
+    ],
+    "assault-shops": [
+        {
+            "version": "1.2.0",
+            "last_updated": "16/02/2024 às 03:51"
+        }
+    ],
+    "anti-cheat": [
+        {
+            "version": "2.0.0",
+            "last_updated": "14/04/2024 às 16:50"
+        }
+    ],
+    "phone": [
+        {
+            "version": "1.1.0",
+            "last_updated": "19/01/2024 às 17:00"
+        }
+    ],
+    "scoreboard": [
+        {
+            "version": "1.0.0",
+            "last_updated": "04/12/2023 às 04:00"
+        }
+    ],
+    "rewards": [
+        {
+            "version": "1.0.0",
+            "last_updated": "08/12/2023 às 10:20"
+        }
+    ],
     "identity-v2": [
-      {
-         "version": "1.4.0",
-         "last_updated": "19/02/2024 às 04:42"
-      }
-   ],
-   
+        {
+            "version": "1.4.0",
+            "last_updated": "19/02/2024 às 04:42"
+        }
+    ],
     "login-v2": [
-      {
-         "version": "1.2.0",
-         "last_updated": "07/02/2024 às 08:22"
-      }
-   ],
-   
-   "cashshop": [
-      {
-         "version": "1.2.0",
-         "last_updated": "06/02/2024 às 17:53"
-      }
-   ],
-   
-   "event": [
-      {
-         "version": "2.0.0",
-         "last_updated": "04/03/2024 às 06:34"
-      }
-   ],
-   
-   "mods": [
-      {
-         "version": "2.0.0",
-         "last_updated": "04/03/2024 às 05:49"
-      }
-   ],
-   
-   "dominacao": [
-      {
-         "version": "1.0.0",
-         "last_updated": "23/02/2024 às 03:39"
-      }
-   ],
-   
-   "vipsystem-v2": [
-      {
-         "version": "1.0.0",
-         "last_updated": "26/03/2024 às 18:56"
-      }
-   ],
-   
-   "battle-royale": [
-      {
-         "version": "1.0.0",
-         "last_updated": "29/03/2024 às 22:50"
-      }
-   ],
-
-   "banco": [
-      {
-         "version": "2.0.0",
-         "last_updated": "21/04/2024 às 20:25"
-      }
-   ]
+        {
+            "version": "1.2.0",
+            "last_updated": "07/02/2024 às 08:22"
+        }
+    ],
+    "cashshop": [
+        {
+            "version": "1.2.0",
+            "last_updated": "06/02/2024 às 17:53"
+        }
+    ],
+    "event": [
+        {
+            "version": "2.0.0",
+            "last_updated": "04/03/2024 às 06:34"
+        }
+    ],
+    "mods": [
+        {
+            "version": "2.0.0",
+            "last_updated": "04/03/2024 às 05:49"
+        }
+    ],
+    "dominacao": [
+        {
+            "version": "1.0.0",
+            "last_updated": "23/02/2024 às 03:39"
+        }
+    ],
+    "vipsystem-v2": [
+        {
+            "version": "1.0.0",
+            "last_updated": "26/03/2024 às 18:56"
+        }
+    ],
+    "battle-royale": [
+        {
+            "version": "1.0.0",
+            "last_updated": "29/03/2024 às 22:50"
+        }
+    ],
+    "banco": [
+        {
+            "version": "2.0.0",
+            "last_updated": "21/04/2024 às 20:25"
+        }
+    ]
 }
